@@ -1,0 +1,7 @@
+{
+  "development": {
+    "port": 8283,
+    "secret": "secret1234",
+    "logFile": "development.log"
+  }
+}
